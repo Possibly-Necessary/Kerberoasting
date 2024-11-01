@@ -1,0 +1,792 @@
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644562
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644561
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 2cf21dda-5ced-4053-9c77-0ad931501a41
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644560
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644559
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644558
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 2cf21dda-5ced-4053-9c77-0ad931501a41
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644557
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+prompt
+
+ScriptBlock ID: 2cf21dda-5ced-4053-9c77-0ad931501a41
+Path:
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644556
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644555
+Keywords=None
+Message=Started invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644554
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: df7c3bd7-6db5-4b83-bb3c-454cdb099d36
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644553
+Keywords=None
+Message=Started invocation of ScriptBlock ID: df7c3bd7-6db5-4b83-bb3c-454cdb099d36
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644552
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+Get-DomainSPNTicket MSSQLSvc/sccmdb9.attackrange.local:4000
+
+ScriptBlock ID: df7c3bd7-6db5-4b83-bb3c-454cdb099d36
+Path:
+06/22/2022 09:22:52 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644551
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:56 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644565
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 49d78922-b6d9-423f-8074-eb808e5b9e11
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:56 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644564
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+klist pusrge
+
+ScriptBlock ID: 49d78922-b6d9-423f-8074-eb808e5b9e11
+Path:
+06/22/2022 09:22:56 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644563
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644574
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644573
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 976f832d-d3ce-42fd-b6fb-86e2f172e1ad
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644572
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644571
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644570
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 976f832d-d3ce-42fd-b6fb-86e2f172e1ad
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644569
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+prompt
+
+ScriptBlock ID: 976f832d-d3ce-42fd-b6fb-86e2f172e1ad
+Path:
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644568
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644567
+Keywords=None
+Message=Started invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:22:57 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644566
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 49d78922-b6d9-423f-8074-eb808e5b9e11
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644586
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644585
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 5eee36ba-126d-40e4-90d8-51458fef4105
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644584
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644583
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644582
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 5eee36ba-126d-40e4-90d8-51458fef4105
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644581
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+prompt
+
+ScriptBlock ID: 5eee36ba-126d-40e4-90d8-51458fef4105
+Path:
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644580
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644579
+Keywords=None
+Message=Started invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644578
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 5eb0203c-75fd-4048-b17a-34671ee0c9f2
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644577
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 5eb0203c-75fd-4048-b17a-34671ee0c9f2
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644576
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+klist purge
+
+ScriptBlock ID: 5eb0203c-75fd-4048-b17a-34671ee0c9f2
+Path:
+06/22/2022 09:23:00 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644575
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644598
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644597
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 53624c9d-794f-4bb8-af8c-5dabae09c500
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644596
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644595
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 2972b914-5888-449a-936c-0b445faa8b2d
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644594
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 53624c9d-794f-4bb8-af8c-5dabae09c500
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644593
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+prompt
+
+ScriptBlock ID: 53624c9d-794f-4bb8-af8c-5dabae09c500
+Path:
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644592
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644591
+Keywords=None
+Message=Started invocation of ScriptBlock ID: f7edbd70-fc57-4212-a13c-db3f85a29644
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644590
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 077450c1-9665-45f6-b702-0ec6a99f3599
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4105
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Starting Command
+OpCode=On create calls
+RecordNumber=12644589
+Keywords=None
+Message=Started invocation of ScriptBlock ID: 077450c1-9665-45f6-b702-0ec6a99f3599
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4104
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+RecordNumber=12644588
+Keywords=None
+Message=Creating Scriptblock text (1 of 1):
+Get-DomainSPNTicket MSSQLSvc/sccmdb9.attackrange.local:4000
+
+ScriptBlock ID: 077450c1-9665-45f6-b702-0ec6a99f3599
+Path:
+06/22/2022 09:23:02 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+SourceName=Microsoft-Windows-PowerShell
+EventCode=4106
+EventType=5
+Type=Verbose
+ComputerName=win-host-987.attackrange.local
+User=NOT_TRANSLATED
+Sid=S-1-5-21-1166625382-1442148322-2337405042-2397
+SidType=0
+TaskCategory=Stopping Command
+OpCode=On create calls
+RecordNumber=12644587
+Keywords=None
+Message=Completed invocation of ScriptBlock ID: 7dcb10f0-f178-42a4-98f3-49324242c07f
+Runspace ID: ed5402bf-0c5d-4b41-9373-9a17119995f1
